@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
+<<<<<<< HEAD
   "author": "Camile",
+=======
+  "author": "Lucas Rodrigues",
+>>>>>>> 72b8536c0730ebdf4bf7536b8136b3867490e542
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
